@@ -10,7 +10,9 @@
 
 ## PROJECTS
 
-1. [PySpark - End to End ML Model - Admiison Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_Admission_Prediction/PySpark_End_to_End_ML_Project.ipynb)
+1. [PySpark - RandomForest Model- Car Price Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_RandomForest_Model/PySpark_with_RF_Car_Price.ipynb)
 
-2. [PySpark - End to End ML Model - Diabetes Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_Diabetes_Prediction/PySpark_Diabetes_Prediction_End_to_End_ML_Project.ipynb)
+2. [PySpark - End to End ML Model - Admiison Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_Admission_Prediction/PySpark_End_to_End_ML_Project.ipynb)
+
+3. [PySpark - End to End ML Model - Diabetes Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_Diabetes_Prediction/PySpark_Diabetes_Prediction_End_to_End_ML_Project.ipynb)
 
