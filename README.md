@@ -12,7 +12,6 @@
 ## PROJECTS
 --------------------------------------------------------------
 
-
 ### 1. [PySpark - RandomForest Model- Car Price Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_RandomForest_Model/PySpark_with_RF_Car_Price.ipynb)
 
 ### 2. [PySpark SQL - Stock Price Prediction](https://github.com/kb1907/PySpark_Projects/blob/main/PySparkSQL_Stock_Price_Prediction/Stock_Prices_using_Spark_SQL.ipynb)
