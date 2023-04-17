@@ -1,7 +1,6 @@
 # **PySpark Projects**
 -------------------------------------------------------------------
 
-
 - In this folder, different scale PySpark projects can be found.
 - All the best 🤘
 
