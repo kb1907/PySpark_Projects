@@ -3,7 +3,6 @@
 - In this folder, various PySpark projects of different scales can be found.
 - All the best
 
-
 ![](https://miro.medium.com/max/600/1*5C4UQznqEiN3D6Xutlgwlg.png)
 
 ## PROJECTS
